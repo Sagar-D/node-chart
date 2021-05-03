@@ -1,0 +1,30 @@
+{
+  "name": "node-chart",
+  "version": "1.0.0",
+  "description": "Generate simple charts on server-side in png, jpeg or pdf format",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sagar-D/node-chart.git"
+  },
+  "keywords": [
+    "node-chart",
+    "chart to png",
+    "chart to jpeg",
+    "chart to jpg",
+    "chart to pdf",
+    "chart to image",
+    "chart to file",
+    "server side chart",
+    "chart"
+  ],
+  "author": "Sagar D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sagar-D/node-chart/issues"
+  },
+  "homepage": "https://github.com/Sagar-D/node-chart#readme"
+}
